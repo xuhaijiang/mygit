@@ -16,3 +16,9 @@
 
 ### git 回退
 `git reset readne.md`
+
+### git 提交到远程 [master](https://github.com/xuhaijiang/mygit.git) 分支
+`git push origin master`
+
+### git 删除
+`git rm "*.txt"`
